@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="text_name">Name</string>
+    <string name="text_price">Price</string>
+    <string name="text_quantity">Quantity</string>
+    <string name="action_delete_all_entries">Delete All</string>
+    <string name="action_save">Save</string>
+    <string name="empty_view_title_text">No products currently in the store</string>
+    <string name="empty_view_subtitle_text">Add products by clicking on the add button</string>
+    <string name="sale_button_text">SALE</string>
+    <string name="currency_country">$</string>
+    <string name="text_bulk_sold_details_activity">Bulk Sold</string>
+    <string name="text_shipment_details_activity">Received Shipment</string>
+    <string name="place_order_button_detail_activity">Place Order</string>
+    <string name="edit_text_hint_order_detail_activity">Enter Quantity</string>
+    <string name="text_bulk_add_details_activity">Bulk Add</string>
+    <string name="action_delete">Delete</string>
+    <string name="text_supplier">Supplier email</string>
+    <string name="order_email_subject_1">Order Request for</string>
+    <string name="order_email_subject_2">more</string>
+    <string name="button_choose_picture_text">Choose Picture</string>
+    <string name="delete_all_warning">Delete all products from the store?</string>
+    <string name="delete_all">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit Editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_product_warning">Delete this product?</string>
+    <string name="delete">Delete</string>
+
+</resources>
